@@ -1,0 +1,22 @@
+{
+  "password": "qwertyuiqwertyui",
+  "ip": "localhost",
+  "port": "4200",
+  "neighbors": [
+    {
+      "name": "neighbor1",
+      "ip": "localhost",
+      "port": "4201"
+    },
+    {
+      "name": "neighbor2",
+      "ip": "localhost",
+      "port": "4202"
+    },
+    {
+      "name": "neighbor3",
+      "ip": "localhost",
+      "port": "4203"
+    }
+  ]
+}
